@@ -1,2 +1,0 @@
-# Rutvik-IT
-Programming
